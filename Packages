@@ -1,0 +1,14 @@
+Package: com.duo.lunartime
+Version: 1.0.1
+Section: Tweaks
+Maintainer: fahlnbg
+Depends: mobilesubstrate (>= 0.9.5000), com.bienvannhat.libfah , ws.hbang.common, preferenceloader
+Architecture: iphoneos-arm
+Installed-Size: 356
+Name: LunarTime
+Author: fahlnbg
+Tag: purpose::extension
+Description: An awesome MobileSubstrate tweak!
+Filename: ./debs/com.duo.lunartime101.deb
+Size: 56400
+MD5sum: 9E80750CE87A1A156B02E8CBBBD75028
