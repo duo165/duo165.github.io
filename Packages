@@ -8,7 +8,7 @@ Installed-Size: 356
 Name: LunarTime
 Author: fahlnbg
 Tag: purpose::extension
-Description: An awesome MobileSubstrate tweak!
+Description: Chỉnh ngày giờ statusbar có lịch âm,...
 Filename: ./debs/com.duo.lunartime101.deb
 Size: 56400
 MD5sum: 9e80750ce87a1a156b02e8cbbbd75028
